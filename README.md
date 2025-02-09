@@ -1,0 +1,2 @@
+# RAT
+Retrieval Augmented Thinking
