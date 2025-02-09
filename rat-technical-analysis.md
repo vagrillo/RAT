@@ -1,4 +1,4 @@
-# Retrieval Augmented Training with In-Inference Reasoning Capabilities
+# Retrieval Augmented Thinking with In-Inference Reasoning Capabilities
 
 ## Introduction
 Recent developments in language model architectures have introduced a novel approach to Retrieval Augmented Generation (RAG) that integrates retrieval capabilities directly into the inference reasoning phase. This technique, which we might call "In-Inference RAG" or "Dynamic Reasoning RAG," represents a significant evolution from traditional RAG implementations.
